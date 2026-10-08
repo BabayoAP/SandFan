@@ -40,6 +40,8 @@ I originally set out to just start the project for today, but I had a few goals 
 
  -  next session, I'll redo everything with proper guidance and work, and I'll finish the goals I originally set out to do ( finishing the GitHub checklist)
 
+tldr: Learned all about the half-life process and how the program works. Learned the hard way to always check doc rules appropriately and use Claude Code appropriately, as a tool. Learned to work efficiently and focus on one task at a time.
+
 ### 2026-10-08 – October 8:
 
 **3h**
