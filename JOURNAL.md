@@ -14,14 +14,15 @@
 
 ## Contents
 
-1. [2026-10-06 – I originally set out to just start the project for today, but I had a few goals in mind after wrapping my head around what I really needed to do.](#2026-10-06-i-originally-set-out-to-just-start-the-project-fo)
+1. [2026-10-06 – October 6:](#2026-10-06-october-6)
 
 ## Design
 
-### 2026-10-06 – I originally set out to just start the project for today, but I had a few goals in mind after wrapping my head around what I really needed to do.
+### 2026-10-06 – October 6:
 
 **2.5h**
 
+October 6:
 I originally set out to just start the project for today, but I had a few goals in mind after wrapping my head around what I really needed to do.
 
  - figure out what I wanted to build and post a video on it: originally, I tried to use TinkerCad, but that proved a little too time-consuming, so I built a 2d version in Miro instead.
