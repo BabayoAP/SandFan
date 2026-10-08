@@ -1,0 +1,24 @@
+Designator,Qty,Value,Footprint,Part number,Notes
+"C1,C2",2,10uF,C_0805_2012Metric,,
+"C3,C4",2,4.7uF,C_0805_2012Metric,,
+C5,1,22uF,C_1206_3216Metric,,
+"C6,C7,C8,C9",4,100nF,C_0603_1608Metric,,
+"D1,D2",2,SS14,D_SMA,SS14,
+D3,1,RED,LED_0603_1608Metric,,Fan speed LED
+D4,1,GREEN,LED_0603_1608Metric,,Sander speed LED
+D5,1,YELLOW,LED_0603_1608Metric,,Charge LED
+J1,1,Battery,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,B2B-PH-K-S,1S LiPo (protected cell). Check pack polarity: red = pin 1 (+)
+J2,1,Fan,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,B2B-PH-K-S,Fan motor
+J3,1,Sander,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,B2B-PH-K-S,Sander motor
+"Q1,Q2",2,AO3400A,SOT-23,AO3400A,
+"R1,R3",2,100,R_0603_1608Metric,,
+"R2,R4,R7,R8",4,100k,R_0603_1608Metric,,
+R5,1,0.1,R_1206_3216Metric,,"Shunt, 0.1 ohm 1% 0.5 W"
+"R6,R10",2,1k,R_0603_1608Metric,,
+R9,1,5.1k,R_0603_1608Metric,,
+"R11,R12",2,470,R_0603_1608Metric,,
+SW1,1,Power,SW_Slide_SPDT_Straight_CK_OS102011MS2Q,OS102011MS2QN1,"Slide switch, battery to system rail"
+"SW2,SW3,SW4,SW5,SW6",5,SW_Push,SW_SPST_B3U-1000P,B3U-1000P,
+U1,1,XIAO RP2040,XIAO_RP2040_Socket,Seeed Studio XIAO RP2040,Socketed on 2x 1x7 2.54 mm female headers (or solder direct)
+U2,1,AP2112K-3.3,SOT-23-5,AP2112K-3.3TRG1,
+U3,1,MCP73831-2-OT,SOT-23-5,MCP73831T-2ACI/OT,"Charger, 5.1k PROG = ~200 mA"
