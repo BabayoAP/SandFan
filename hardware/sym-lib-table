@@ -1,4 +1,0 @@
-(sym_lib_table
-	(version 7)
-	(lib (name "SandFan")(type "KiCad")(uri "${KIPRJMOD}/sandfan.kicad_sym")(options "")(descr "SandFan project symbols"))
-)

@@ -1,4 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "SandFan")(type "KiCad")(uri "${KIPRJMOD}/sandfan.pretty")(options "")(descr "SandFan project footprints"))
-)
