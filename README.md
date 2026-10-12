@@ -16,3 +16,4 @@ No firmware: analog design, no microcontroller.
 ## Bill of materials
 <img width="1605" height="392" alt="image" src="https://github.com/user-attachments/assets/9b9c7502-2e74-44bc-8cc0-d98e723ca136" />
 
+<img width="808" height="593" alt="image" src="https://github.com/user-attachments/assets/e9b98849-6428-4e3f-9a16-981ac1b9fe88" />
